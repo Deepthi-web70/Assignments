@@ -1,3 +1,5 @@
+package Assignment2;
+
 class LifeCycle extends Thread {
     public void run() {
         try {

@@ -1,3 +1,5 @@
+package Assignment2;
+
 abstract class Shape {
     abstract double area();
 }
@@ -31,7 +33,7 @@ public class TestShape {
         Shape c = new Circle(5);
         Shape r = new Rectangle(4, 6);
 
-        System.out.println("Circle Area: " + c.area());
-        System.out.println("Rectangle Area: " + r.area());
+        System.out.println("Assignment2.Circle Area: " + c.area());
+        System.out.println("Assignment2.Rectangle Area: " + r.area());
     }
 }

@@ -1,3 +1,5 @@
+package Assignment2;
+
 final class FinalClass {
     final int x = 10;  // final variable
 

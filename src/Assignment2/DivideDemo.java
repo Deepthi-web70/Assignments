@@ -1,3 +1,5 @@
+package Assignment2;
+
 public class DivideDemo {
     public static void main(String[] args) {
         try {

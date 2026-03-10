@@ -1,3 +1,5 @@
+package Assignment2;
+
 class Student {
     int roll;
     String name;

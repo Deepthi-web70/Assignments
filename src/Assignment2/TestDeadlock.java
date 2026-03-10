@@ -1,3 +1,5 @@
+package Assignment2;
+
 public class TestDeadlock {
     static final Object obj1 = new Object();
     static final Object obj2 = new Object();

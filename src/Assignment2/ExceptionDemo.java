@@ -1,3 +1,5 @@
+package Assignment2;
+
 import java.io.*;
 public class ExceptionDemo {
     public static void main(String[] args) {

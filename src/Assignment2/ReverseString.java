@@ -1,3 +1,5 @@
+package Assignment2;
+
 public class ReverseString {
     public static void main(String[] args) {
         String str = "Java";

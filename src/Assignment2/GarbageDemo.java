@@ -1,3 +1,5 @@
+package Assignment2;
+
 public class GarbageDemo {
     public void finalize() {
         System.out.println("Object is garbage collected");

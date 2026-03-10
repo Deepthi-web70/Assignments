@@ -1,3 +1,5 @@
+package Assignment2;
+
 public class AgeCheck {
     static void AgeCheck(int age) {
         if (age < 18)

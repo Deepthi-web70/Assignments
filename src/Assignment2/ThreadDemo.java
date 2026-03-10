@@ -1,3 +1,5 @@
+package Assignment2;
+
 class MyThread extends Thread {
     public void run() {
         System.out.println("Thread using Thread class");

@@ -1,3 +1,5 @@
+package Assignment2;
+
 class Counter {
     int count = 0;
 
